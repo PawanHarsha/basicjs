@@ -42,6 +42,15 @@ main{
     padding-bottom: 3.5em;
     min-height: 85%;
 }
+article{
+    margin: 5em 7em 6em 5em;
+    width:25em;
+    height:25em;
+    background-color:#ffffff;
+    border: 0.1px;
+    opacity:0.2;
+}
+
 h1{
      color: #00ffcc;
      font-size: 7em;
@@ -53,14 +62,6 @@ h2{
         
    }
     
-article{
-    margin: 5em 7em 6em 5em;
-    width:25em;
-    height:25em;
-    background-color:#ffffff;
-    border: 0.1px;
-    opacity:0.2;
-}
 footer{
     padding:15px;
 }
