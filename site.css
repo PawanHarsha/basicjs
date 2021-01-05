@@ -50,9 +50,11 @@ article{
     border: 0.1px;
     opacity:0.2;
 }
-
+.trans{
+    color: #00ffcc;
+      }
 h1{
-     color: #00ffcc;
+     
      font-size: 7em;
             
    }
